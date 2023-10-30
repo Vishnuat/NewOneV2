@@ -1,7 +1,7 @@
 ## Deploy to Heroku                     
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/HinataV2)
-
+,,,
 start - check bot alive
 settings - get settings 
 logs - to get the rescent errors
