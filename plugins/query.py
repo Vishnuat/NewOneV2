@@ -431,11 +431,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton("⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("🛰 Sᴇᴀʀᴄʜ 🛰", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("♨️ Cʜᴀɴɴᴇʟ ♨️", url="https://t.me/M_MOVIES_23")
+            InlineKeyboardButton("🔍 Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("🎭 Cʜᴀɴɴᴇʟ 🎭", url="https://t.me/OM_links")
             ],[      
-            InlineKeyboardButton("💎 HΞLᎮ 💎", callback_data="help"),
-            InlineKeyboardButton("💎 ΛBOUT 💎", callback_data="about")
+            InlineKeyboardButton("🔱 HΞLᎮ 🔱", callback_data="help"),
+            InlineKeyboardButton("🔆 ΛBOUT 🔆", callback_data="about")
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), START_MESSAGE.format(user=query.from_user.mention, bot=client.mention), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
        
@@ -468,7 +468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://t.me/+g4T8qKy5Gow3MjVl')
+            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://t.me/OM_links')
             ],[
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
