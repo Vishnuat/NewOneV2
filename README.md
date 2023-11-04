@@ -1,6 +1,6 @@
 ## Deploy to Heroku                     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/HinataV2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vishnuat/NewOneV2)
 ```
 start - check bot alive
 settings - get settings 
