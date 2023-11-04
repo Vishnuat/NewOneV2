@@ -3,7 +3,7 @@
     "description": "The Telegram Autofilter Bot",
     "logo": "https://telegra.ph/file/388094cad0f780364ef6e.jpg",
     "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://github.com/meiranbot/HinataV2",
+    "repository": "https://github.com/Vishnuat/NewOneV2",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
