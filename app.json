@@ -12,7 +12,7 @@
         },
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "6663527056:AAGoo8u-9fvwWtL2eYGYd00CK4FQy5t9SpY",
+            "value": "6893241610:AAFQt0IgO9IeTXn11fqh-_2CInlrwPczbGU",
             "required": true
         },
         "API_ID": {
@@ -32,7 +32,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "5948112774 5033114900",
+            "value": "5948112774 5033114900 5719810833",
             "required": true
         },
         "SHORT_API": {
@@ -63,12 +63,12 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "<b>Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}</b>\n\n• ❰ @OM_links ❱ •",
+            "value": "<b>Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}</b>\n\n• ❰ https://t.me/+l_RSCcux2bRhYmJl ❱ •",
             "required": false
         },
         "DATABASE_URL": {
             "description": "mongoDB URI.",
-            "value": "mongodb+srv://vishnukopavi121:nGDIN7YVoth8ZQYZ@cluster0.vfnpotl.mongodb.net/?retryWrites=true&w=majority",
+            "value": "mongodb+srv://newiam1:Ngx29879HvNxbDX7@cluster0.elvu9mu.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
